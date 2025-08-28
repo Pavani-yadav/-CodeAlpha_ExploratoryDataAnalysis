@@ -73,6 +73,6 @@ Below are some screenshots from the analysis:
 
 ##🔗 Connect with Me
 
-LinkedIn:
+LinkedIn:https://www.linkedin.com/posts/bandipavani_dataanalytics-exploratorydataanalysis-eda-activity-7366526117526040576-yn-Z?utm_source=share&utm_medium=member_android&rcm=ACoAAEwtrCUB3b9VXvJ8Jt-Aq4hehxqL8bMBJRw
 GitHub:
 
